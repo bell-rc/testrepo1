@@ -8,7 +8,7 @@ node_js:
 
 build:
   ci:
-    - echo "Hello!"
+    - echo "Hello from testrepo1!"
     - node --version
     - lsb_release -a
     - docker --version
