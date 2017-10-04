@@ -1,3 +1,3 @@
 #!/bin/bash -e
 
-echo '--->Hello from testrepo1 project'
+echo '--->Hello from testrepo1 project!'
